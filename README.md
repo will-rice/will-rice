@@ -8,16 +8,13 @@
 
 
 ## 🚀 About Me
-I'm a Machine Learning Engineer (MLE) that works on generative models in audio and computer vision. I completed a Master's in Computer Science in 2019 where my thesis work was applications of generative models to sub-surface imaging.
+I'm a Machine Learning Engineer (MLE) that works on generative models in audio and computer vision. I have a MS in Computer Science. My thesis work was on applications of generative models to sub-surface imaging.
 
 
 ## 🛠 Skills
 
-### Languages
+### Technologies
 - Python
-- C/C++
-
-### Frameworks
 - PyTorch
 - Lightning
 - TensorFlow
