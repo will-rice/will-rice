@@ -31,10 +31,10 @@ I'm a Machine Learning Engineer (MLE) that works on generative models in audio a
 
 
 ## 👩‍💻 I'm currently working on...
-Generative modeling in Text to Speech (TTS) and Audio.
+Generative models in Computer Vision, with a focus on Lipsync and Video editing.
 
 ## 🧠 I'm currently learning...
-I enjoy reading papers and keeping up with the latest ML/AI trends. In addition, I lean toward growth in software engineering and spend time everyday on [LeetCode](https://leetcode.com/will-rice/)
+I enjoy reading papers and keeping up with the latest ML/AI trends. In addition, I lean toward growth in software engineering and spend free time on [LeetCode](https://leetcode.com/will-rice/)
 
 ## 👯‍♀️ I'm looking to collaborate on...
 I am always open to collaborate on research and open source projects.
