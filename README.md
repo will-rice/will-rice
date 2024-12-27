@@ -7,8 +7,8 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_Will_Rice)
 
 
-## 🚀 About Me
-I'm a Machine Learning Engineer (MLE) that works on generative models in audio and computer vision. I have a MS in Computer Science. My thesis work was on applications of generative models to sub-surface imaging.
+## 🚀 About
+I am a Machine Learning Engineer specializing in generative models for audio and computer vision. I hold a Master’s degree in Computer Science, with my thesis focused on applying generative models to subsurface imaging.
 
 
 ## 🛠 Skills
