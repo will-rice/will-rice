@@ -8,7 +8,8 @@
 
 
 ## 🚀 About
-I am a Machine Learning Engineer specializing in generative models for audio and computer vision. I hold a Master’s degree in Computer Science, with my thesis focused on applying generative models to subsurface imaging.
+
+I am a Machine Learning Engineer specializing in generative models for audio and computer vision. I hold a Master’s degree in Computer Science, where my thesis focused on applying generative models to subsurface imaging.
 
 
 ## 🛠 Skills
