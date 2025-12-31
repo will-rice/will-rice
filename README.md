@@ -15,28 +15,39 @@
 
 ## 🚀 About Me
 
-```python
-class WillRice:
-    def __init__(self):
-        self.role = "Machine Learning Engineer"
-        self.specialization = ["Generative AI", "Computer Vision", "Audio ML"]
-        self.education = "M.S. Computer Science"
-        self.thesis = "Generative Models for Subsurface Imaging"
-        self.current_focus = ["Lipsync", "Video Editing", "Diffusion Models"]
-        self.interests = ["Research", "Open Source", "Software Engineering"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together!")
+<table>
+<tr>
+<td width="50%">
 
-me = WillRice()
-me.say_hi()
-```
+### 👨‍💻 Professional Profile
 
-🎓 **Education**: Master's degree in Computer Science with research focus on applying generative models to subsurface imaging
+🎯 **Role**: Machine Learning Engineer  
+🎓 **Education**: M.S. Computer Science  
+📄 **Thesis**: Generative Models for Subsurface Imaging
 
-🔬 **Specialization**: Generative models for audio and computer vision applications
+### 🔬 Specialization
+- 🤖 Generative AI
+- 👁️ Computer Vision
+- 🎵 Audio ML
 
-💡 **Current Work**: Building cutting-edge generative models in Computer Vision, with emphasis on Lipsync and Video editing technologies
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🗣️ Lipsync Technology
+- 🎬 Video Editing
+- 🌊 Diffusion Models
+
+### 💡 Interests
+- 🔬 Research
+- 🌟 Open Source
+- 💻 Software Engineering
+
+</td>
+</tr>
+</table>
+
+> 💭 *Thanks for stopping by! Let's build something amazing together!*
 
 ---
 
